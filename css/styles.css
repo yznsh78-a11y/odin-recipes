@@ -1,0 +1,32 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 300;
+}
+
+h1,
+h2 {
+    color:gold;
+    background-color: red;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+   border: black 1em; 
+   padding: 8px;
+   margin: 5px;
+   font-size: 12px;
+   color: blue;
+   background-color: blueviolet;
+   font-size: larger;
+}
+ li {
+    font-size: 16px;
+    font-weight: 400;
+    color:blue;
+    background-color: bisque;
+    padding: 8px;
+    margin: 6px;
+ }
